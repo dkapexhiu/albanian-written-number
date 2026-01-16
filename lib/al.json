@@ -37,7 +37,20 @@
     "mijë",
     "milion",
     "miliard",
-    "trilion"
+    "trilion",
+    "kuadrilion",
+    "kuintilion",
+    "seksilion",
+    "septilion",
+    "oktilion",
+    "nonilion",
+    "decilion",
+    "undecilion",
+    "duodecilion",
+    "tredecilion",
+    "kuattuordecilion",
+    "kuindecilion"
   ],
   "unitExceptions": []
 }
+
