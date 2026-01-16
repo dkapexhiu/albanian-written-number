@@ -1,0 +1,43 @@
+{
+  "useLongScale": false,
+  "baseSeparator": " e ",
+  "unitSeparator": "e ",
+  "base": {
+    "0": "zero",
+    "1": "një",
+    "2": "dy",
+    "3": "tre",
+    "4": "katër",
+    "5": "pesë",
+    "6": "gjashtë",
+    "7": "shtatë",
+    "8": "tetë",
+    "9": "nëntë",
+    "10": "dhjetë",
+    "11": "njëmbëdhjetë",
+    "12": "dymbëdhjetë",
+    "13": "trembëdhjetë",
+    "14": "katërmbëdhjetë",
+    "15": "pesëmbëdhjetë",
+    "16": "gjashtëmbëdhjetë",
+    "17": "shtatëmbëdhjetë",
+    "18": "tetëmbëdhjetë",
+    "19": "nëntëmbëdhjetë",
+    "20": "njëzet",
+    "30": "tridhjetë",
+    "40": "dyzet",
+    "50": "pesëdhjetë",
+    "60": "gjashtëdhjetë",
+    "70": "shtatëdhjetë",
+    "80": "tetëdhjetë",
+    "90": "nëntëdhjetë"
+  },
+  "units": [
+    "qind",
+    "mijë",
+    "milion",
+    "miliard",
+    "trilion"
+  ],
+  "unitExceptions": []
+}
