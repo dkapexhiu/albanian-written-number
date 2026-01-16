@@ -1,11 +1,8 @@
 {
   "name": "albanian-written-number",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert numbers to Albanian words.",
   "main": "lib/index.js",
-  "scripts": {
-    "start": "node lib/index.js"
-  },
   "keywords": ["numbers", "words", "albanian", "i18n"],
   "author": "Daniel Kapexhiu",
   "license": "MIT",
